@@ -8,4 +8,4 @@ No Errors;
 True false statement suport;
 Works with parenthesis;
 
-<img src="truthTablePictures/s10.png">
+<img src="truthTablePictures/s10.PNG">
