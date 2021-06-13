@@ -9,3 +9,11 @@ True false statement suport;
 Works with parenthesis;
 
 <img src="truthTablePictures/s10.PNG">
+
+<img src="truthTablePictures/s11.PNG">
+
+<img src="truthTablePictures/s12.PNG">
+
+<img src="truthTablePictures/s16.PNG">
+
+<img src="truthTablePictures/s13.PNG">
