@@ -7,3 +7,4 @@ No warnings;
 No Errors;
 True false statement suport;
 Works with parenthesis;
+![](truthTablePictures/s11.png)
